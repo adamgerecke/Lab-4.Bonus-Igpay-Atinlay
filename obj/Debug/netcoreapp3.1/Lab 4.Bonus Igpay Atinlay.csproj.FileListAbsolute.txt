@@ -1,0 +1,13 @@
+C:\devbuild4\Lab 4.Bonus Igpay Atinlay\bin\Debug\netcoreapp3.1\Lab 4.Bonus Igpay Atinlay.exe
+C:\devbuild4\Lab 4.Bonus Igpay Atinlay\bin\Debug\netcoreapp3.1\Lab 4.Bonus Igpay Atinlay.deps.json
+C:\devbuild4\Lab 4.Bonus Igpay Atinlay\bin\Debug\netcoreapp3.1\Lab 4.Bonus Igpay Atinlay.runtimeconfig.json
+C:\devbuild4\Lab 4.Bonus Igpay Atinlay\bin\Debug\netcoreapp3.1\Lab 4.Bonus Igpay Atinlay.runtimeconfig.dev.json
+C:\devbuild4\Lab 4.Bonus Igpay Atinlay\bin\Debug\netcoreapp3.1\Lab 4.Bonus Igpay Atinlay.dll
+C:\devbuild4\Lab 4.Bonus Igpay Atinlay\bin\Debug\netcoreapp3.1\Lab 4.Bonus Igpay Atinlay.pdb
+C:\devbuild4\Lab 4.Bonus Igpay Atinlay\obj\Debug\netcoreapp3.1\Lab 4.Bonus Igpay Atinlay.csprojAssemblyReference.cache
+C:\devbuild4\Lab 4.Bonus Igpay Atinlay\obj\Debug\netcoreapp3.1\Lab 4.Bonus Igpay Atinlay.AssemblyInfoInputs.cache
+C:\devbuild4\Lab 4.Bonus Igpay Atinlay\obj\Debug\netcoreapp3.1\Lab 4.Bonus Igpay Atinlay.AssemblyInfo.cs
+C:\devbuild4\Lab 4.Bonus Igpay Atinlay\obj\Debug\netcoreapp3.1\Lab 4.Bonus Igpay Atinlay.csproj.CoreCompileInputs.cache
+C:\devbuild4\Lab 4.Bonus Igpay Atinlay\obj\Debug\netcoreapp3.1\Lab 4.Bonus Igpay Atinlay.dll
+C:\devbuild4\Lab 4.Bonus Igpay Atinlay\obj\Debug\netcoreapp3.1\Lab 4.Bonus Igpay Atinlay.pdb
+C:\devbuild4\Lab 4.Bonus Igpay Atinlay\obj\Debug\netcoreapp3.1\Lab 4.Bonus Igpay Atinlay.genruntimeconfig.cache
